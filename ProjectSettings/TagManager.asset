@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - crate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - ground
+  - Fuel1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlatformScene3
+    uniqueID: 1331760393
+    locked: 0
+  - name: Background
+    uniqueID: 3329262577
+    locked: 0
+  - name: Player
+    uniqueID: 1109380925
+    locked: 0
+  - name: BACKCAVE
+    uniqueID: 2888822757
+    locked: 0
+  - name: Coin
+    uniqueID: 1263721275
+    locked: 0

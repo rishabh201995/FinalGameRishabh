@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: c1520f9efc2b07140bf8861df44793d8
+timeCreated: 1513448390
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bird_owl_noBG_0
+    21300002: bird_owl_noBG_1
+    21300004: bird_owl_noBG_2
+    21300006: bird_owl_noBG_3
+    21300008: bird_owl_noBG_4
+    21300010: bird_owl_noBG_5
+    21300012: bird_owl_noBG_6
+    21300014: bird_owl_noBG_7
+    21300016: bird_owl_noBG_8
+    21300018: bird_owl_noBG_9
+    21300020: bird_owl_noBG_10
+    21300022: bird_owl_noBG_11
+    21300024: bird_owl_noBG_12
+    21300026: bird_owl_noBG_13
+    21300028: bird_owl_noBG_14
+    21300030: bird_owl_noBG_15
+    21300032: bird_owl_noBG_16
+    21300034: bird_owl_noBG_17
+    21300036: bird_owl_noBG_18
+    21300038: bird_owl_noBG_19
+    21300040: bird_owl_noBG_20
+    21300042: bird_owl_noBG_21
+    21300044: bird_owl_noBG_22
+    21300046: bird_owl_noBG_23
+    21300048: bird_owl_noBG_24
+    21300050: bird_owl_noBG_25
+    21300052: bird_owl_noBG_26
+    21300054: bird_owl_noBG_27
+    21300056: bird_owl_noBG_28
+    21300058: bird_owl_noBG_29
+    21300060: bird_owl_noBG_30
+    21300062: bird_owl_noBG_31
+    21300064: bird_owl_noBG_32
+    21300066: bird_owl_noBG_33
+    21300068: bird_owl_noBG_34
+    21300070: bird_owl_noBG_35
+    21300072: bird_owl_noBG_36
+    21300074: bird_owl_noBG_37
+    21300076: bird_owl_noBG_38
+    21300078: bird_owl_noBG_39
+    21300080: bird_owl_noBG_40
+    21300082: bird_owl_noBG_41
+    21300084: bird_owl_noBG_42
+    21300086: bird_owl_noBG_43
+    21300088: bird_owl_noBG_44
+    21300090: bird_owl_noBG_45
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bird_owl_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 499
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 501
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 505
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 514
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 511
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 513
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 516
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 501
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 400
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 402
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 408
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 416
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 413
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 416
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 416
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 402
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 301
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 304
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 305
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 312
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 313
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 313
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 314
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 302
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 200
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 202
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 206
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 212
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 212
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 212
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 212
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 202
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 101
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 101
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 117
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 117
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 117
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 116
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 101
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 17
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 22
+        width: 92
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_owl_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 9
+        width: 164
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: e65fbdfdd767d5140907af8884de02df
+timeCreated: 1511029588
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_0
+    21300002: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_1
+    21300004: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_2
+    21300006: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_3
+    21300008: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_4
+    21300010: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_5
+    21300012: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_6
+    21300014: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_7
+    21300016: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_8
+    21300018: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_9
+    21300020: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_10
+    21300022: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_11
+    21300024: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_12
+    21300026: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_13
+    21300028: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_14
+    21300030: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_15
+    21300032: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_16
+    21300034: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_17
+    21300036: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_18
+    21300038: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_19
+    21300040: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_20
+    21300042: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_21
+    21300044: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_22
+    21300046: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_23
+    21300048: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_24
+    21300050: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_25
+    21300052: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_26
+    21300054: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_27
+    21300056: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_28
+    21300058: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_29
+    21300060: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_30
+    21300062: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_31
+    21300064: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_32
+    21300066: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_33
+    21300068: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_34
+    21300070: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_35
+    21300072: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_36
+    21300074: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_37
+    21300076: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_38
+    21300078: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_39
+    21300080: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_40
+    21300082: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_41
+    21300084: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_42
+    21300086: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_43
+    21300088: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_44
+    21300090: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_45
+    21300092: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_46
+    21300094: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_47
+    21300096: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_48
+    21300098: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_49
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1416
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1381
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1435
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1435
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1435
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1366
+        width: 200
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_6
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1063
+        width: 872
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1424
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1381
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1381
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1381
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1226
+        width: 959
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1384
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1376
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1381
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1146
+        width: 75
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1311
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1236
+        width: 68
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1343
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1343
+        width: 111
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1246
+        width: 233
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1322
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1309
+        width: 111
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1273
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1273
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1273
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1282
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1274
+        width: 111
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1233
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1243
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1227
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1196
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1236
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1146
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1146
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_35
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1137
+        width: 197
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 348
+        width: 2582
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 289
+        width: 692
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 268
+        width: 548
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_39
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 465
+        width: 260
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 1292
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green_hill_zone_sprites_mania_by_cansin13art-db2xtc0_41
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 9
+        width: 1207
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
